@@ -32,8 +32,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Peace be upon you and welcome to my first in-depth IT tutorial! I shall begin by creating a remote computer---AKA a virtual machine (VM)---using the Microsoft Azure portal (portal.azure.com). The use of a VM will protect our physical machine in the event of any unforeseen malfunctions or mishaps. Plus, any created VM will act as a clean slate computer fit for continual replication of the lab (i.e., good practice). Next, create a resource group titled "osTicket". Then, create a VM with 2-4 vCPUs. In this example I will be using 3 vCPUs.
+<p>
+</p>
+<p>
 
-<img src="https://i.imgur.com/OPaIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/58f7973e-9d0f-4993-bdf6-5429da6d3f65" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
 <p>
