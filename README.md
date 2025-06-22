@@ -69,7 +69,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-4.) Download the zip folder --- Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+4.) Download the zip folder. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
 This link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer.
 <p>
 </p>
