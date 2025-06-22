@@ -36,28 +36,154 @@ Peace be upon you and welcome to my first in-depth IT tutorial! I shall begin by
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/58f7973e-9d0f-4993-bdf6-5429da6d3f65" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/256d4d5c-fce6-49ca-a4cc-1a865ec48b8f" alt="Disk Sanitization Steps"/>
 <p>
 <br />
+  
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Remote Desktop Connection
+<p>
 </p>
-<br />
+<p>
 
+<img src="https://github.com/user-attachments/assets/8873d88a-baf4-4155-9655-eebc94a583ed"/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+  
+<p>
+</p>
+<p>
+Internet Information Services
+<p>
+</p>
+<p>
 
+<img src="https://github.com/user-attachments/assets/490990a7-9471-48e7-b7fd-a6ba6bfe5906" alt="Disk Sanitization Steps"/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+  
+<p>
+</p>
+<p>
+Download the zip folder
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/0eda6fe3-d447-4183-ad23-7b308f6b5d16" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Extract to desktop
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/cabc17e2-371e-47e6-a92c-a4ac35372066" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Install stuff from the zip folder
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/caa421eb-671e-4bd0-ba95-16e339cd1878" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+PHP stuff
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/f274ab11-b8c8-4042-a862-000c45b4b86e" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Assign PHP 
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/40d7c9fd-b489-4ebc-98a4-e70cafd92dcb" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Drag and drop "upload" folder, rename "upload" folder to "osTicket"
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/0d81b638-389e-47e8-9376-84aa8ebfb5ab" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Browse the osTicket browser
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/81e2f9cd-cce5-4dfc-8c4e-6e66189279c9" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Enable extensions
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/060d0b62-44d6-4672-a432-68c9b3f84ecf" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Rename "ost-sampleconfig.php" to "ost-config.php"
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/aaa65441-802d-4291-b844-d9ba4e3029b1" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+Enjoy using osTicket ticket system!
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
