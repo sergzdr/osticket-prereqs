@@ -26,12 +26,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket installation files
 - Heidi SQL
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps (13 Steps)</h2>
 
 <p>
 </p>
 <p>
-Peace be upon you and welcome to my first in-depth IT tutorial! I shall begin by creating a remote computer---AKA a virtual machine (VM)---using the Microsoft Azure portal (portal.azure.com). The use of a VM will protect our physical machine in the event of any unforeseen malfunctions or mishaps. Plus, any created VM will act as a clean slate computer fit for continual replication of the lab (i.e., good practice). Next, create a resource group titled "osTicket". Then, create a VM with 2-4 vCPUs. In this example I will be using 3 vCPUs.
+Peace be upon you and welcome to my first in-depth IT tutorial!
+  
+1.) I shall begin by creating a remote computer---AKA a virtual machine (VM)---using the Microsoft Azure portal (portal.azure.com). The use of a VM will protect our physical machine in the event of any unforeseen malfunctions or mishaps. Plus, any created VM will act as a clean slate computer fit for continual replication of the lab (i.e., good practice). Next, create a resource group titled "osTicket". Then, create a VM with 2-4 vCPUs. In this example I will be using 3 vCPUs.
 <p>
 </p>
 <p>
@@ -43,7 +45,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial! I shall begin by
 <p>
 </p>
 <p>
-Remote Desktop Connection
+2.) Next, we will connect our newly created VM using Remote Desktop Connection (RDP). We can do so by copying and pasting our public IPv4 address. If you are a Mac user you will have to download Micosoft Remote Desktop. 
 <p>
 </p>
 <p>
@@ -55,7 +57,7 @@ Remote Desktop Connection
 <p>
 </p>
 <p>
-Internet Information Services
+3.) Enable Internet Information Services (IIS). First, access the Control Panel -> Uninstall a program -> Turn Windows features on or off -> Observe the list and enable IIS.
 <p>
 </p>
 <p>
@@ -67,7 +69,8 @@ Internet Information Services
 <p>
 </p>
 <p>
-Download the zip folder
+4.) Download the zip folder --- Excellent. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
+This link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer.
 <p>
 </p>
 <p>
@@ -79,7 +82,7 @@ Download the zip folder
 <p>
 </p>
 <p>
-Extract to desktop
+5.) Extract to desktop
 <p>
 </p>
 <p>
@@ -91,7 +94,7 @@ Extract to desktop
 <p>
 </p>
 <p>
-Install stuff from the zip folder
+6.) Install stuff from the zip folder
 <p>
 </p>
 <p>
@@ -103,7 +106,7 @@ Install stuff from the zip folder
 <p>
 </p>
 <p>
-PHP stuff
+7.) PHP stuff
 <p>
 </p>
 <p>
@@ -115,7 +118,7 @@ PHP stuff
 <p>
 </p>
 <p>
-Assign PHP 
+8.) Assign PHP 
 <p>
 </p>
 <p>
@@ -127,7 +130,7 @@ Assign PHP
 <p>
 </p>
 <p>
-Drag and drop "upload" folder, rename "upload" folder to "osTicket"
+9.) Drag and drop "upload" folder, rename "upload" folder to "osTicket"
 <p>
 </p>
 <p>
@@ -139,7 +142,7 @@ Drag and drop "upload" folder, rename "upload" folder to "osTicket"
 <p>
 </p>
 <p>
-Browse the osTicket browser
+10.) Browse the osTicket browser
 <p>
 </p>
 <p>
@@ -151,7 +154,7 @@ Browse the osTicket browser
 <p>
 </p>
 <p>
-Enable extensions
+11.) Enable extensions
 <p>
 </p>
 <p>
@@ -163,7 +166,7 @@ Enable extensions
 <p>
 </p>
 <p>
-Rename "ost-sampleconfig.php" to "ost-config.php"
+12.) Rename "ost-sampleconfig.php" to "ost-config.php"
 <p>
 </p>
 <p>
@@ -175,7 +178,7 @@ Rename "ost-sampleconfig.php" to "ost-config.php"
 <p>
 </p>
 <p>
-Enjoy using osTicket ticket system!
+13.) Enjoy using osTicket ticket system!
 <p>
 </p>
 <p>
