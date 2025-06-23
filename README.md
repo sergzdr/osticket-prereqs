@@ -177,7 +177,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-13.) Enjoy using osTicket ticket system! بارك الله فيكم
+13.) Enjoy using osTicket ticketing system! بارك الله فيكم
 <p>
 </p>
 <p>
