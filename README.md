@@ -69,8 +69,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-4.) Download the zip folder. Now that you have enabled IIS we need to install Web Platform Installer. I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 
-This link will provide you with all of the material you need to download to get osTicket up and running. Simply click the link and install the Web Platform Installer.
+4.) Now that IIS is enabled we can now install Web Platform Installer, which you can find here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 - This link contains the necessary downloadable material for osTicket. Simply click the link and install the Web Platform Installer.
 <p>
 </p>
 <p>
@@ -82,7 +81,7 @@ This link will provide you with all of the material you need to download to get 
 <p>
 </p>
 <p>
-5.) Extract to desktop
+5.) Next, we will extract all of our recently downloaded material onto the desktop.
 <p>
 </p>
 <p>
@@ -94,7 +93,7 @@ This link will provide you with all of the material you need to download to get 
 <p>
 </p>
 <p>
-6.) Install stuff from the zip folder
+6.) Then, we will install the various files within the osTicket-Installation-Files folder.
 <p>
 </p>
 <p>
@@ -106,7 +105,7 @@ This link will provide you with all of the material you need to download to get 
 <p>
 </p>
 <p>
-7.) PHP stuff
+7.) Within the Windows (C:) Folder, create a folder named "PHP" and extract all files from the compressed zip folder into the recently made PHP folder.
 <p>
 </p>
 <p>
@@ -118,7 +117,7 @@ This link will provide you with all of the material you need to download to get 
 <p>
 </p>
 <p>
-8.) Assign PHP 
+8.) Register new PHP.
 <p>
 </p>
 <p>
