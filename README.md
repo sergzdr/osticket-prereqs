@@ -105,7 +105,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-7.) Within the Windows (C:) Folder, create a folder named "PHP" and extract all files from the compressed zip folder into the recently made PHP folder.
+7.) Within the Windows (C:) folder, create a folder named "PHP" and extract all files from the compressed zip folder into the recently made PHP folder.
 <p>
 </p>
 <p>
@@ -129,7 +129,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-9.) Drag and drop "upload" folder, rename "upload" folder to "osTicket"
+9.) Drag and drop "upload" folder, rename "upload" folder to "osTicket".
 <p>
 </p>
 <p>
@@ -141,7 +141,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-10.) Browse the osTicket browser
+10.) Within IIS -> Sites -> osTicket -> browse. 
 <p>
 </p>
 <p>
@@ -153,7 +153,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-11.) Enable extensions
+11.) Enable three extensions then refresh the osTicket browser.
 <p>
 </p>
 <p>
@@ -165,7 +165,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-12.) Rename "ost-sampleconfig.php" to "ost-config.php"
+12.) Rename "ost-sampleconfig.php" to "ost-config.php" and enable full control for everyone. 
 <p>
 </p>
 <p>
@@ -177,7 +177,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-13.) Enjoy using osTicket ticket system!
+13.) Enjoy using osTicket ticket system! بارك الله فيكم
 <p>
 </p>
 <p>
