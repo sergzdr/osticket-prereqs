@@ -32,8 +32,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 Peace be upon you and welcome to my first in-depth IT tutorial!
+
+1.) First, visit Microsoft Azure Portal (portal.azure.com), and create a Virtual Machine (VM)
+
+  - A VM is a remote computer AKA a "clean slate" computer.
+    - It protects our Personal Computer (PC) from any mishaps and/or malfunctions.
+    - It allows for continuous replication of the lab to ensure maximum efficiency.
+
+  - Details of VM   
+    - Subscription
+      - Resource group: osTicket
   
-1.) I shall begin by creating a remote computer---AKA a virtual machine (VM)---using the Microsoft Azure portal (portal.azure.com). The use of a VM will protect our physical machine in the event of any unforeseen malfunctions or mishaps. Plus, any created VM will act as a clean slate computer fit for continual replication of the lab (i.e., good practice). Next, create a resource group titled "osTicket". Then, create a VM with 2-4 vCPUs. In this example I will be using 3 vCPUs.
+    - Instance details
+      - Virtual machine name: osticket-vm
+      - Region: (US) East US 2
+      - Image: Windows 10 Pro, version 22H2 - x64 Gen2
+      - Size: Standard_D2s_v3 - 2 vcpus, 8 GiB memory
+
+    - Administrator account
+      - Username: labuser
+      - Password: osTicketPassword1!
+
 <p>
 </p>
 <p>
@@ -45,7 +64,11 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-2.) Next, we will connect our newly created VM using Remote Desktop Connection (RDP). We can do so by copying and pasting our public IPv4 address. If you are a Mac user you will have to download Micosoft Remote Desktop. 
+2.) Next, connect the newly created VM using Remote Desktop Connection (RDP). 
+  
+  - We can do so by copying and pasting our public IPv4 address.
+  - Note: If you are a Mac user you will have to download Micosoft Remote Desktop. 
+  
 <p>
 </p>
 <p>
@@ -57,7 +80,10 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-3.) Enable Internet Information Services (IIS). First, access the Control Panel -> Uninstall a program -> Turn Windows features on or off -> Observe the list and enable IIS.
+3.) Enable Internet Information Services (IIS). 
+  
+  - First, access the Control Panel -> Uninstall a program -> Turn Windows features on or off -> Observe the list and enable IIS.
+    
 <p>
 </p>
 <p>
@@ -69,7 +95,11 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-4.) Now that IIS is enabled we can now install Web Platform Installer, which you can find here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 - This link contains the necessary downloadable material for osTicket. Simply click the link and install the Web Platform Installer.
+4.) Now that IIS is enabled we can now install Web Platform Installer, which you can find here: 
+
+  - https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+
+  - The link above contains the necessary downloadable material for osTicket. Simply click the link and install the Web Platform Installer.
 <p>
 </p>
 <p>
@@ -117,7 +147,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-8.) Register new PHP.
+8.) Register new PHP -> browse to "php_cgi.exe" and double-click.
 <p>
 </p>
 <p>
@@ -141,7 +171,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-10.) Within IIS -> Sites -> osTicket -> browse. 
+10.) Within IIS Manager -> Sites -> osTicket -> Browse *:80 (http) 
 <p>
 </p>
 <p>
@@ -153,7 +183,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-11.) Enable three extensions then refresh the osTicket browser.
+11.) Now we shall go into IIS Manager to enable three particular extensions: "php_imap.dll", "php_intl.dll" & "php_opcache.dll" then refresh the osTicket browser.
 <p>
 </p>
 <p>
@@ -165,7 +195,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-12.) Rename "ost-sampleconfig.php" to "ost-config.php" and enable full control for everyone. 
+12.) Proceed to Windows (C:) -> inetpub -> wwwroot -> osTicket -> include -> Scroll down fully & rename "ost-sampleconfig.php" to "ost-config.php" - next, right click "ost-config.php" -> Properties -> Security -> Advanced -> Add -> Select a principal -> Type: "everyone" -> Check Names -> OK -> Check box titled "Full control" -> OK -> Apply
 <p>
 </p>
 <p>
@@ -177,7 +207,48 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-13.) Enjoy using osTicket ticketing system! بارك الله فيكم
+13.) Back in the web browser, continue into osTicket Installer and enter your information.
+
+  - System Settings
+    - Note: "Default Email" is the one which receives Emails from customers.
+    - Note: "Email Address" must be different from "Default Email".
+
+  - Admin User
+    - Username: adminuser
+    - Password: Password1
+  
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+14.) In our "osTIcket-Installation-Files" folder -> open "HeidiSQL_12.3.0.6589_Setup" -> Accept the agreement -> Next (x4) -> Install
+  
+  - In HeidiSQL, click +New -> enter Username & Password
+
+    - Username: root
+    - Password: root
+    
+  - Note: The use of "root" for our username & password is solely for lab purposes---however this is not a good idea to do in the real world! God Bless <3
+   
+<p>
+</p>
+<p>
+
+<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<p>
+<br />
+  
+<p>
+</p>
+<p>
+00.) Enjoy using osTicket Support Ticket System! - بارك الله فيكم
 <p>
 </p>
 <p>
