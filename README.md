@@ -26,14 +26,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket installation files
 - Heidi SQL
 
-<h2>Installation Steps (13 Steps)</h2>
+<h2>Installation Steps (15 Steps)</h2>
 
 <p>
 </p>
 <p>
 Peace be upon you and welcome to my first in-depth IT tutorial!
 
-1.) First, visit Microsoft Azure Portal (portal.azure.com), and create a Virtual Machine (VM)
+1.) First, visit Microsoft Azure Portal (portal.azure.com), and create a Virtual Machine (VM).
 
   - A VM is a remote computer AKA a "clean slate" computer.
     - It protects our Personal Computer (PC) from any mishaps and/or malfunctions.
@@ -275,7 +275,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-00.) Enjoy using osTicket Support Ticket System! - بارك الله فيكم
+15.) Enjoy using osTicket Support Ticket System! - بارك الله فيكم
 <p>
 </p>
 <p>
