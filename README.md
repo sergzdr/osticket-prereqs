@@ -123,7 +123,11 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-6.) Then, we will install the various files within the osTicket-Installation-Files folder.
+6.) Then, install these two files within the "osTicket-Installation-Files" folder.
+
+  - PHPManagerForIIS_V1.5.0
+  - rewrite_amd64_en-US
+        
 <p>
 </p>
 <p>
@@ -135,7 +139,15 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-7.) Within the Windows (C:) folder, create a folder named "PHP" and extract all files from the compressed zip folder into the recently made PHP folder.
+7.) Within the Windows (C:) folder, create a folder named "PHP" and then extract all files from "php-7.3.8-nts-Win32-VC15-x86" into the PHP folder.
+
+  - Then, install the remaining files:
+    - VC_redist_x86
+    - mysql-5.5.62-win32
+      - Setup Type: Typical
+      - Server Instance Configuration: Standard Configuration
+        - Password: root
+       
 <p>
 </p>
 <p>
@@ -147,7 +159,10 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-8.) Register new PHP -> browse to "php_cgi.exe" and double-click.
+8.) Next, open IIS as an admin -> PHP Manager -> Register new PHP version -> "PHP" -> "php_cgi"
+  
+  - Then, stop and start the server (refresh).
+  
 <p>
 </p>
 <p>
@@ -159,7 +174,10 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-9.) Drag and drop "upload" folder, rename "upload" folder to "osTicket".
+9.) Within the zip file "osTicket-v1.15.8", drag and drop the "upload" folder into "wwwroot", and then rename "upload" folder to "osTicket".
+  
+  (Then, stop & start the server.)
+  
 <p>
 </p>
 <p>
@@ -171,7 +189,8 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-10.) Within IIS Manager -> Sites -> osTicket -> Browse *:80 (http) 
+10.) Within IIS Manager -> Sites -> Default Web Site -> osTicket -> Browse *:80 (http)
+  
 <p>
 </p>
 <p>
@@ -183,7 +202,14 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 </p>
 <p>
-11.) Now we shall go into IIS Manager to enable three particular extensions: "php_imap.dll", "php_intl.dll" & "php_opcache.dll" then refresh the osTicket browser.
+11.) In IIS Manager -> Default Web Site (x2) -> PHP Manager -> Enable or disable an extension -> enable three particular extensions: 
+  
+  - "php_imap.dll"
+  - "php_intl.dll"
+  - "php_opcache.dll"
+
+(Then, refresh the osTicket browser.)
+
 <p>
 </p>
 <p>
@@ -196,6 +222,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 12.) Proceed to Windows (C:) -> inetpub -> wwwroot -> osTicket -> include -> Scroll down fully & rename "ost-sampleconfig.php" to "ost-config.php" - next, right click "ost-config.php" -> Properties -> Security -> Advanced -> Add -> Select a principal -> Type: "everyone" -> Check Names -> OK -> Check box titled "Full control" -> OK -> Apply
+  
 <p>
 </p>
 <p>
