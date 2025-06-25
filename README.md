@@ -8,8 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Lab 3.1. osTicket Setup | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/t7shFAn6G8Q)
-
+- ### [YouTube: Lab 3.1. osTicket Setup | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/NNOhNYb7XHE)
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
