@@ -276,6 +276,11 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 15.) Enjoy using osTicket Support Ticket System! - بارك الله فيكم
+
+  - Database Settings
+    - MySQL Username: root
+    - MySQL Password: root
+   
 <p>
 </p>
 <p>
