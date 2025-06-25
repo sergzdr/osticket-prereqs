@@ -268,7 +268,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3d79e54d-ed82-47de-a871-9588970f49f2" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -280,12 +280,14 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
   - Database Settings
     - MySQL Username: root
     - MySQL Password: root
+
+  - Admin login: http://localhost/osTicket/scp/login.php
    
 <p>
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4f30a1a1-447a-443b-8e0b-955df3958b3b" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
