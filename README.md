@@ -56,7 +56,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/256d4d5c-fce6-49ca-a4cc-1a865ec48b8f" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/256d4d5c-fce6-49ca-a4cc-1a865ec48b8f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -72,7 +72,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/8873d88a-baf4-4155-9655-eebc94a583ed"/>
+<img src="https://github.com/user-attachments/assets/8873d88a-baf4-4155-9655-eebc94a583ed" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p>
 <br />
   
@@ -87,7 +87,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/490990a7-9471-48e7-b7fd-a6ba6bfe5906" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/490990a7-9471-48e7-b7fd-a6ba6bfe5906" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -103,7 +103,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/0eda6fe3-d447-4183-ad23-7b308f6b5d16" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0eda6fe3-d447-4183-ad23-7b308f6b5d16" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -115,7 +115,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/cabc17e2-371e-47e6-a92c-a4ac35372066" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/cabc17e2-371e-47e6-a92c-a4ac35372066" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -131,7 +131,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/caa421eb-671e-4bd0-ba95-16e339cd1878" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/caa421eb-671e-4bd0-ba95-16e339cd1878" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -151,7 +151,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/f274ab11-b8c8-4042-a862-000c45b4b86e" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f274ab11-b8c8-4042-a862-000c45b4b86e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -166,7 +166,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/40d7c9fd-b489-4ebc-98a4-e70cafd92dcb" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/40d7c9fd-b489-4ebc-98a4-e70cafd92dcb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -181,7 +181,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/0d81b638-389e-47e8-9376-84aa8ebfb5ab" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0d81b638-389e-47e8-9376-84aa8ebfb5ab" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -194,7 +194,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/81e2f9cd-cce5-4dfc-8c4e-6e66189279c9" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/81e2f9cd-cce5-4dfc-8c4e-6e66189279c9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -213,7 +213,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/060d0b62-44d6-4672-a432-68c9b3f84ecf" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/060d0b62-44d6-4672-a432-68c9b3f84ecf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -226,7 +226,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/aaa65441-802d-4291-b844-d9ba4e3029b1" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/aaa65441-802d-4291-b844-d9ba4e3029b1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -247,7 +247,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/43af42ff-dd1c-47b5-bf1e-7dc0d052d611" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -267,7 +267,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/3d79e54d-ed82-47de-a871-9588970f49f2" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3d79e54d-ed82-47de-a871-9588970f49f2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -286,7 +286,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 
-<img src="https://github.com/user-attachments/assets/4f30a1a1-447a-443b-8e0b-955df3958b3b" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/4f30a1a1-447a-443b-8e0b-955df3958b3b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
