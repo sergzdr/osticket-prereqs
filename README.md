@@ -64,9 +64,10 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 2.) Next, connect the newly created VM using Remote Desktop Connection (RDP). 
-  
+
   - We can do so by copying and pasting our public IPv4 address.
-  - Note: If you are a Mac user you will have to download Micosoft Remote Desktop. 
+
+    - Note: If you are a Mac user you will have to download Micosoft Remote Desktop. 
   
 <p>
 </p>
@@ -261,7 +262,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
     - Username: root
     - Password: root
     
-  - Note: The use of "root" for our username & password is solely for lab purposes---however this is not a good idea to do in the real world! God Bless <3
+  Note: The use of "root" for the username & password is solely for lab purposes---this is not a good idea to do in the real world! God Bless <3
    
 <p>
 </p>
