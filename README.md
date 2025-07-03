@@ -257,7 +257,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 14.) In our "osTIcket-Installation-Files" folder -> open "HeidiSQL_12.3.0.6589_Setup" -> Accept the agreement -> Next (x4) -> Install
 
-    - Note: The use of "root" for the username & password is solely for lab purposes
+    - Note: The use of "root" for the username & password is solely for lab purposes.
           - This is NOT a good idea to do in the real world! God Bless <3
   
   - In HeidiSQL, click +New -> enter Username & Password
