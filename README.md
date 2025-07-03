@@ -34,9 +34,9 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 
 1.) First, visit Microsoft Azure Portal (portal.azure.com), and create a Virtual Machine (VM).
 
-  - A VM is a remote computer AKA a "clean slate" computer.
-    - It protects our Personal Computer (PC) from any mishaps and/or malfunctions.
-    - It allows for continuous replication of the lab to ensure maximum efficiency.
+      - A VM is a remote computer AKA a "clean slate" computer.
+        - It protects our Personal Computer (PC) from any mishaps and/or malfunctions.
+        - It allows for continuous replication of the lab to ensure maximum efficiency.
 
   - Details of VM   
     - Subscription
@@ -67,7 +67,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 
   - We can do so by copying and pasting our public IPv4 address.
 
-    - Note: If you are a Mac user you will have to download Micosoft Remote Desktop. 
+  Note: If you are a Mac user you will have to download Micosoft Remote Desktop. 
   
 <p>
 </p>
@@ -99,7 +99,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 
   - https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
-  - The link above contains the necessary downloadable material for osTicket. Simply click the link and install the Web Platform Installer.
+  The link above contains the necessary downloadable material for osTicket. Simply click the link and install the Web Platform Installer.
 <p>
 </p>
 <p>
@@ -208,7 +208,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
   - "php_intl.dll"
   - "php_opcache.dll"
 
-(Then, refresh the osTicket browser.)
+  (Then, refresh the osTicket browser.)
 
 <p>
 </p>
@@ -256,13 +256,13 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 </p>
 <p>
 14.) In our "osTIcket-Installation-Files" folder -> open "HeidiSQL_12.3.0.6589_Setup" -> Accept the agreement -> Next (x4) -> Install
+
+    - Note: The use of "root" for the username & password is solely for lab purposes---this is not a good idea to do in the real world! God Bless <3
   
   - In HeidiSQL, click +New -> enter Username & Password
 
     - Username: root
     - Password: root
-    
-  Note: The use of "root" for the username & password is solely for lab purposes---this is not a good idea to do in the real world! God Bless <3
    
 <p>
 </p>
