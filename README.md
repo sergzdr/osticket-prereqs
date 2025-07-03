@@ -82,7 +82,7 @@ Peace be upon you and welcome to my first in-depth IT tutorial!
 <p>
 3.) Enable Internet Information Services (IIS). 
   
-  - First, access the Control Panel -> Uninstall a program -> Turn Windows features on or off -> Observe the list and enable IIS.
+  - First, access the Control Panel -> Uninstall a program -> Turn Windows features on or off -> Observe the list and enable IIS
     
 <p>
 </p>
